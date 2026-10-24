@@ -23,7 +23,7 @@ Format: `[ ]` not started / `[R]` read / `[N]` notebook done / `[P]` problems do
 - [ ] 2.3 The Hydrogen Atom
 - [ ] 2.4 The Two-Body Problem
 - [ ] 2.5 The Harmonic Oscillator
-- [ ] Ch. 1 Problems
+- [ ] Ch. 2 Problems
 
 ## Phase B
 - [ ] 3.1 States
@@ -33,7 +33,7 @@ Format: `[ ]` not started / `[R]` read / `[N]` notebook done / `[P]` problems do
 - [ ] 3.5 Space Translation
 - [ ] 3.6 Time Translation and Inversion
 - [ ] 3.7 Interpretations of Quantum Mechanics
-- [ ] Ch. 1 Problems
+- [ ] Ch. 3 Problems
 - [ ] 4.1 Rotations
 - [ ] 4.2 Angular-Momentum Multiplets
 - [ ] 4.3 Addition of Angular Momenta
@@ -43,11 +43,11 @@ Format: `[ ]` not started / `[R]` read / `[N]` notebook done / `[P]` problems do
 - [ ] 4.7 Inversions
 - [ ] 4.8 Algebraic Derivation of the Hydrogen Spectrum
 - [ ] 4.9 The Rigid Rotator
-- [ ] Ch. 1 Problems
+- [ ] Ch. 4 Problems
 
 ## Phase C
 - [ ] Ch. 5 (5.1–5.9) + Problems
-- [ ] Ch. 6 (5.1–5.9) + Problems
+- [ ] Ch. 6 (6.1–6.9) + Problems
 
 ## Phase D
 - [ ] Ch. 7 (7.1–7.10) + Problems
