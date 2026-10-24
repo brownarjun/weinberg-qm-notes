@@ -10,6 +10,10 @@ Rule: a section is "done" only when its key results can be stated without lookin
 - `notebooks/chNN_.../` — one notebook per section (or cluster), numbered to match
   the book's equation numbering (e.g. `sec1-1_photons.ipynb` covers Eqs. 1.1.1–1.1.8).
   Each notebook follows the loop: read -> reproduce derivation -> numerics -> summary.
+  Ch. 1 additionally has `expN_*.ipynb` experiment notebooks covering the classical
+  experiments and their observational contradictions (black-body, photoelectric, Compton,
+  Rutherford, atomic spectra, Davisson–Germer, + specific-heats supplement), each
+  graphical-first, with thermodynamics phenomena drawn wherever they appear.
 - `problems/` — worked solutions, one file per chapter (`ch01.md` ... `ch12.md`),
   with date + confidence flag per problem.
 - `reviews/` — self-quiz sheets per phase and spaced-repetition recaps.
