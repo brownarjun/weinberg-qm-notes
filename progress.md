@@ -12,12 +12,12 @@ Format: `[ ]` not started / `[R]` read / `[N]` notebook done / `[P]` problems do
   - [x] exp6_debroglie_davisson_germer.ipynb (peak follows arcsin(lambda/d); 54 eV -> 1.67 A)
   - [x] exp7_specific_heats_thermodynamics.ipynb (supplement beyond Weinberg ch. 1: Dulong-Petit,
         Einstein vs Debye T^3, corresponding states, gamma T + beta T^3)
-- [ ] 1.1 Photons
-- [ ] 1.2 Atomic Spectra
+- [N] 1.1 Photons (sec1-1_photons.ipynb complete, post-review updates 2026-11-08)
+- [ ] 1.2 Atomic Spectra (sec1-2_atomic_spectra.ipynb started — partial)
 - [ ] 1.3 Wave Mechanics
 - [ ] 1.4 Matrix Mechanics
 - [ ] 1.5 Probabilistic Interpretation
-- [ ] Ch. 1 Problems
+- [ ] Ch. 1 Problems (in progress — started 2026-11-14)
 - [ ] 2.1 Schrödinger Equation for a Central Potential
 - [ ] 2.2 Spherical Harmonics
 - [ ] 2.3 The Hydrogen Atom
