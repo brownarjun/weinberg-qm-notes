@@ -14,6 +14,10 @@ hbar   = h / (2.0*np.pi)        # reduced Planck constant
 e      = 4.80320427e-10         # electron charge (statC), |e|
 me     = 9.1093837015e-28       # electron mass, g
 
+# Nuclear masses (CODATA 2018), for reduced-mass work in Ch. 2 (sec2-4)
+mp     = 1.67262192369e-24      # proton mass, g
+md     = 3.3435837724e-24       # deuteron mass, g
+
 # Derived (Weinberg Eq. 1.1.6 and p. 4)
 alpha      = e**2 / (hbar * c)                    # ~ 1/137.036
 a_B        = 8.0*np.pi**5 * kB**4 / (15.0 * h**3 * c**3)   # radiation density const
